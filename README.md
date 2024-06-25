@@ -8,7 +8,7 @@ This repository contains scripts to automate the process of managing Cloudflare 
 
 Ensure you have the following installed and configured:
 - Terraform
-- AWS CLI
+- CLI
 - Cloudflare API Token
 - AWS Access Key ID and Secret Access Key(if you are pushing logs to S3 bucket)
 
